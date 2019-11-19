@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p-msg-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p-msg-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-coupon-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-coupon-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-inventory-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-inventory-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-msg-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-msg-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-order-server-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-score-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-score-server" charset="UTF-8" />
+  </component>
+</project>

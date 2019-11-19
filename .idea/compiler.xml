@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tx-msg-api" />
+        <module name="tx-pay" />
+        <module name="tx-commons" />
+        <module name="tx-inventory-api" />
+        <module name="tx-score-api" />
+        <module name="tx-order-api" />
+        <module name="tx-order-server" />
+        <module name="eureka-server" />
+        <module name="tx-coupon-server" />
+        <module name="tx-inventory-server" />
+        <module name="tmybatis-generator" />
+        <module name="tx-msg-server" />
+        <module name="tx-score-server" />
+        <module name="tx-coupon-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="p-msg-api" target="1.8" />
+      <module name="p-msg-server" target="1.8" />
+      <module name="tx-order-server-1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka-server" options="-parameters" />
+      <module name="p-msg-api" options="-parameters" />
+      <module name="p-msg-server" options="-parameters" />
+      <module name="tx-commons" options="-parameters" />
+      <module name="tx-coupon-api" options="-parameters" />
+      <module name="tx-coupon-server" options="-parameters" />
+      <module name="tx-inventory-api" options="-parameters" />
+      <module name="tx-inventory-server" options="-parameters" />
+      <module name="tx-msg-api" options="-parameters" />
+      <module name="tx-msg-server" options="-parameters" />
+      <module name="tx-order-api" options="-parameters" />
+      <module name="tx-order-server" options="-parameters" />
+      <module name="tx-order-server-1" options="-parameters" />
+      <module name="tx-pay" options="-parameters" />
+      <module name="tx-score-api" options="-parameters" />
+      <module name="tx-score-server" options="-parameters" />
+    </option>
+  </component>
+</project>
